@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an apiring Data Analyst
+- 👋 Hi, I’m an asiring Data Analyst
 - 👀 I’m interested in data analyst roles 
 - :technologist: skilled in MS Excel, Python, SQL, Power BI
 
