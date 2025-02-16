@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an Data Enthusiast
+- 👋 Hi, I’m a Data Enthusiast
 - 👀 I’m interested in data science and related roles 
 - :technologist: skilled in MS Excel, Python, SQL, Power BI, Machine Learning
 - Welcome to my GitHub repository, where I showcase my skills and projects as a passionate data enthusiast
